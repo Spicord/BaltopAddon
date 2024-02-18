@@ -1,0 +1,8 @@
+{
+    "id": "baltop",
+    "name": "BalanceTop",
+    "author": "Tini",
+    "version": "1.0.0",
+    "main": "me.tini.baltop.BalanceTopAddon",
+    "language": "Java"
+}
